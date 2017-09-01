@@ -1,0 +1,17 @@
+{
+  "name": "09-streaming-file-io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "streams.js",
+  "eslintConfig": {
+    "env": {
+        "node": true,
+        "es6": true
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Joshua Lloyd",
+  "license": "ISC"
+}
